@@ -52,6 +52,7 @@ header nav .branding{
 }
 .hero .left img{
     width:400px;
+    margin-left: 2rem;
 }
 
 .hero .right{
